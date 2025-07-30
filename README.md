@@ -1,1 +1,3 @@
 # pgp-public-key
+
+PGP public key fingerprint: 35C1 879E A5B8 374A 1000  8434 F81F E7A3 2120 1AB0
